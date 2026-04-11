@@ -21,8 +21,8 @@
 ## 🚀 Featured Projects
 
 ### ☄️ NEO Hazard Detector
-AI-powered asteroid hazard detection using XGBoost — 96% recall on hazardous asteroids  
-`Python` `XGBoost` `FastAPI` `Streamlit` `Docker`
+Asteroid hazard detection using XGBoost — 96% recall on hazardous asteroids  
+`Python` `XGBoost` `FastAPI` `HTML` `CSS` `JavaScript` `Docker` 
 
 ### 🧠 Parkinson's Disease Detector
 ML model to detect Parkinson's disease from clinical data  
